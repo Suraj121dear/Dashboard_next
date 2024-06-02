@@ -1,0 +1,1 @@
+export const star = require("../../assets/Star 1.png");

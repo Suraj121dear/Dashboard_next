@@ -1,0 +1,11 @@
+.gradient-text {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .angled-image {
+    transform: rotate(-10deg);
+  }
+  .angled-image-right {
+    transform: rotate(10deg);
+  }
